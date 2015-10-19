@@ -1,4 +1,5 @@
 #include <stdlib.h>
 
 
- //pokus o nahrati
+ //pokus o nahrat
+ //lllllllllli
